@@ -2,8 +2,8 @@
 
 English Version Below
 
-> **Academic Project** | MSc in Computer Engineering @ **Politecnico di Torino**
-> **Course:** Mobile Applications Development (2024/2025)
+**Academic Project** | MSc in Computer Engineering @ **Politecnico di Torino**
+**Course:** Mobile Applications Development (2024/2025)
 
 Voyago è un'applicazione Android avanzata progettata per la gestione intelligente degli itinerari di viaggio.
 Sviluppata come progetto d'esame, l'app si concentra sulle innovazioni stile social network e sulla UX mobile-first in scenari di connettività variabile.
@@ -34,8 +34,8 @@ Sviluppato in team per il corso di MAD.
 
 # 🌍 Voyago - Android Travel Intelligence
 
-> **Academic Project** | MSc in Computer Engineering @ **Politecnico di Torino**
-> **Course:** Mobile Applications Development (2024/2025)
+**Academic Project** | MSc in Computer Engineering @ **Politecnico di Torino**
+**Course:** Mobile Applications Development (2024/2025)
 
 Voyago is an advanced Android application designed for smart travel itinerary management. 
 Developed as a final exam project, the app focuses on social-network-inspired features and mobile-first UX optimized for varying connectivity scenarios.
